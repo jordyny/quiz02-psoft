@@ -2,11 +2,12 @@ public class CoffeeCounter {
     //initializing cups variable
     private int cupsDrunk;
 
-    \\counter
+    //counter
     public CoffeeCounter() {
         this.cupsDrunk = 0;
     }
 
+    //drink cup
     public void drinkCup() {
         cupsDrunk++;
         System.out.println("You drank a cup of coffee ☕ Total: " + cupsDrunk);
