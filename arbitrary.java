@@ -22,7 +22,7 @@ public class CoffeeCounter {
 
         counter.drinkCup();
         counter.drinkCup();
-
+//print output statement with final count
         System.out.println("Final count: " + counter.getCupsDrunk());
     }
 }
