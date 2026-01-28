@@ -2,7 +2,7 @@ public class CoffeeCounter {
     //initializing cups variable
     private int cupsDrunk;
 
-    //counter
+    //counter initialization
     public CoffeeCounter() {
         this.cupsDrunk = 0;
     }
