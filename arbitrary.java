@@ -2,6 +2,7 @@ public class CoffeeCounter {
 
     private int cupsDrunk;
 
+    \\counter
     public CoffeeCounter() {
         this.cupsDrunk = 0;
     }
