@@ -1,5 +1,5 @@
 public class CoffeeCounter {
-
+    //initializing cups variable
     private int cupsDrunk;
 
     public CoffeeCounter() {
